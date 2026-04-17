@@ -1,6 +1,6 @@
 <p> git init<p>
-git status
-git add .
-git commit -m "first commit"
-git remote add origin 
-git push -u origin main
+<p>git status<p>
+<p>git add .<p>
+<p>git commit -m "first commit"<p>
+<p>git remote add origin <p>
+<p>git push -u origin main<p>
