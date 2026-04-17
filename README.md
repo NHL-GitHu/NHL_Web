@@ -1,4 +1,4 @@
-git init
+<p> git init<p>
 git status
 git add .
 git commit -m "first commit"
